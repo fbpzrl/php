@@ -1,2 +1,2 @@
-# php
+# PHP
 PHP studies and projects
